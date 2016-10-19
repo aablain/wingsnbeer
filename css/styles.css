@@ -10,16 +10,16 @@
 #side {
   float:right;
   width:40%;
-  
-
 }
 
 #infobar {
   background-color: #FFC107;
+  box-shadow: 5px 5px 25px #000;
 }
 
 .jumbotron {
   background-color: #EF5350;
+  box-shadow: 5px 5px 35px #000;
 }
 
 .well img {
@@ -28,4 +28,9 @@
 
 .price {
   color: green;
+}
+
+.container {
+  margin-bottom: 50px;
+  margin-top: 25px;
 }
