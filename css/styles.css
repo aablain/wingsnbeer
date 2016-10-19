@@ -1,0 +1,31 @@
+#submitted {
+  display: none;
+}
+
+#blanks {
+  width: 50%;
+  color: #EF5350;
+}
+
+#side {
+  float:right;
+  width:40%;
+  
+
+}
+
+#infobar {
+  background-color: #FFC107;
+}
+
+.jumbotron {
+  background-color: #EF5350;
+}
+
+.well img {
+  margin: 1%;
+}
+
+.price {
+  color: green;
+}
